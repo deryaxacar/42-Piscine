@@ -1,10 +1,13 @@
-<h2 align="center"> 42 Kocaeli Software School - Pool Training Projects </h2>
-
-----
-
-Below are the projects I completed during the 42 Kocaeli Software School Pool training, along with the scores I received:
+<div align="center">
+  <h1>42 Kocaeli Software School - Pool Training Projects</h1> <img src="https://github.com/deryaxacar/42-Piscine/blob/main/42_Logo_W_500x220.png" alt="42 Logo" width="170"></br></br>
+</div>
 
 ---
+
+<p align="center">
+  Below are the projects I completed during the 42 Kocaeli Software School Pool training, along with the scores I received:
+</p>
+
 
 <div align="center">
 
