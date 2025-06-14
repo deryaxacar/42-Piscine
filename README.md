@@ -4,8 +4,6 @@
   <img src="https://github.com/deryaxacar/42-Piscine/blob/main/42_Logo_W_500x220.png" alt="42 Logo" width="170"></br></br>
 </div>
 
----
-
 <div align="center">
 
   <table>
@@ -65,5 +63,3 @@
     </tr>
   </table>
 </div>
-
----
